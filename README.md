@@ -8,7 +8,7 @@
 
 🚀 Always curious & building (or destroying) things <br/>
 
-🔧 Currently learning Flutter, Embedded Systems, and IoT <br/>
+🔧 Currently learning Flutter. <br/>
 
 📍 Passionate about coding, innovation, and tech for good <br/>
 
